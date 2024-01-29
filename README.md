@@ -1,3 +1,5 @@
+**Internship Project**
+
 Organization: Quess Corp Ltd. Sep 2023 – Oct 2023
 
 Title: An Empirical Study on Business Analytics and its Impact on Human Resource Management System
@@ -19,6 +21,10 @@ demonstrating a tangible impact on HR practices at Quess Corp Ltd.
 Statistical Analysis using SPSS
 • Performed Regression Analysis, Correlation, T-test, and Descriptive Statistics 
 
+
+
+
+**Tableau Training Project**
 
 
 Tableau Desktop, Training Program on Tableau Desktop in NICT Institute Jan 2023 – Feb 2023
